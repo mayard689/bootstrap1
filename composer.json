@@ -1,0 +1,14 @@
+{
+    "name": "adrien/bootstrap1",
+    "description": "tests for bootstrap quest 1",
+    "require": {
+        "twig/twig": "^3.0",
+        "twbs/bootstrap": "^4.4"
+    },
+    "authors": [
+        {
+            "name": "mayard689",
+            "email": "doc-albert@laposte.net"
+        }
+    ]
+}
